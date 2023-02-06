@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f956faca.css",
+    "main.js": "/static/js/main.e46f7f9d.js",
+    "static/media/plane.gif": "/static/media/plane.e468c99d2f8d0fec5dcb.gif",
+    "index.html": "/index.html",
+    "main.f956faca.css.map": "/static/css/main.f956faca.css.map",
+    "main.e46f7f9d.js.map": "/static/js/main.e46f7f9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f956faca.css",
+    "static/js/main.e46f7f9d.js"
+  ]
+}
